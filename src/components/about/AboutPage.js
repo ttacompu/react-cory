@@ -6,7 +6,7 @@ class  AboutPage extends Component{
     render(){
         return (
             <div>
-               <span> About Page</span>
+               <div> About Page</div>
                 <Link to="/">Back</Link>
             </div>
             

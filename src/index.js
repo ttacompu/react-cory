@@ -1,8 +1,10 @@
 import React, {Component} from 'react';
 import {render} from 'react-dom';
 import {App} from './components/App';
+import './styles/styles.css'
 import 'bootstrap/dist/css/bootstrap.css';
 import 'bootstrap/dist/js/bootstrap.js';
+
 
 
 render(
